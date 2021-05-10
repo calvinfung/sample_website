@@ -1,3 +1,3 @@
-# This is a README
+# README
 
-Hello, world.
+Hello, world. This is a sample project from Learn Enough to Be Dangerous' tutorial.
